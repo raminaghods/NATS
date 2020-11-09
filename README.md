@@ -1,4 +1,7 @@
-Video Demonstration for the submitted work:
+Video Demonstration: https://youtu.be/dCch804gCSA 
+
+
+for the submitted work:
 
 ''Multi-Agent Active Search using Realistic Depth-Aware Noise Model'',
 Ramina Ghods, William J. Durkin, Jeff Schneider
