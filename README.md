@@ -1,6 +1,6 @@
 Video Demonstration: https://youtu.be/dCch804gCSA 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dCch804gCSA/default.jpg)](https://www.youtube.com/watch?v=dCch804gCSA)
+[![Multi-Agent Active Search](https://img.youtube.com/vi/dCch804gCSA/default.jpg)](https://www.youtube.com/watch?v=dCch804gCSA)
 
 
 for the submitted work:
