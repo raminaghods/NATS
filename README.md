@@ -11,7 +11,6 @@ R. Ghods and J. Schneider are with the Robotics Institute, School of Computer Sc
 
 W. Durkin is with the School of Earth Sciences; Byrd Polar and Climate Research Center, Ohio State University, Columbus, OH 43210
 
-Additional Link:
 
 
 
