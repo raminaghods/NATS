@@ -1,5 +1,7 @@
 Video Demonstration: https://youtu.be/dCch804gCSA 
 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=dCch804gCSA/0.jpg)](https://www.youtube.com/watch?v=dCch804gCSA)
+
 
 for the submitted work:
 
