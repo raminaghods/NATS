@@ -1,8 +1,17 @@
 '''
 Author: rghods@cs.cmu.edu, durkin.98@osu.edu
 
+(c) 2020 Ramina Ghods
+
 plot histograms for probability density function of object detection as a
 function of confidence measure of YOLOv3
+
+@article{ghods2020multi,
+  title={Multi-Agent Active Search using Realistic Depth-Aware Noise Model},
+  author={Ghods, Ramina and Durkin, William J and Schneider, Jeff},
+  journal={arXiv preprint arXiv:2011.04825},
+  year={2020}
+}
 '''
 
 import os
