@@ -1,11 +1,17 @@
 '''
-Code for submitted work:
+Code for the work:
 
-``Multi Agent Active Search using Realistic Depth-Aware Noise Model'',
-submitted to 2020 Conference on Robot Learning
-author: anonymous
+``Multi Agent Active Search using Realistic Depth-Aware Noise Model'', Ramina Ghods, William J Durkin and Jeff Schneider
 
-please do not distribute. The code will become public upon acceptance of the paper.
+(C) Ramina Ghods 2020 (rghods@cs.cmu.edu)
+Please cite the following paper to use the code:
+
+@article{ghods2020multi,
+  title={Multi-Agent Active Search using Realistic Depth-Aware Noise Model},
+  author={Ghods, Ramina and Durkin, William J and Schneider, Jeff},
+  journal={arXiv preprint arXiv:2011.04825},
+  year={2020}
+}
 '''
 
 import numpy as np
