@@ -204,8 +204,8 @@ class RSI(object):
                     lamda = self.mu * 1.
                     IG = 0
                     if(np.sum(pi_0) != 0):
-                        IG += -(p_0 * np.log(p_0 * ss.norm(0,1).pdf(0) + p_1 * ss.norm(0,1).pdf(-lamda)))
-                        IG += -(p_1 * np.log(p_0 * ss.norm(0,1).pdf(lamda) + p_1 * ss.norm(0,1).pdf(0)))
+                        IG += -(p_0 * np.log(p_0 * ss.norm(0,1).pdf(0) + p_1 * ss.norm(0,1).pdf(-lamda/np.sqrt(self.sigma2))))
+                        IG += -(p_1 * np.log(p_0 * ss.norm(0,1).pdf(lamda/np.sqrt(self.sigma2)) + p_1 * ss.norm(0,1).pdf(0)))
 
                     loss[h,l,d] = -IG
                     if (qinfo.compute_posterior):
