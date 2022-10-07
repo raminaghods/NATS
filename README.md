@@ -1,7 +1,6 @@
+Ghods, Ramina, William J. Durkin, and Jeff Schneider. "Multi-agent active search using realistic depth-aware noise model." In 2021 IEEE International Conference on Robotics and Automation (ICRA), pp. 9101-9108. IEEE, 2021.
+
 Video Demonstration for the work:
- 
-''Multi-Agent Active Search using Realistic Depth-Aware Noise Model'',
-Ramina Ghods, William J. Durkin, Jeff Schneider
 
 https://youtu.be/dCch804gCSA 
 
